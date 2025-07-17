@@ -1,4 +1,7 @@
 # Fractal-Wind-Energy-System
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14992901.svg)](https://doi.org/10.5281/zenodo.14992901)
+
 This project represents a novel approach to renewable energy, inspired by fundamental principles of energy oscillations and resonance. By developing this prototype, we aim to validate the feasibility of a vibration and resonance-based wind energy system, opening new doors for sustainable energy solutions.
 Collaboration Proposal: Fractal Wind Energy System
 
